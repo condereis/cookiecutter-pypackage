@@ -2,9 +2,11 @@
 Cookiecutter PyPackage
 ======================
 
-.. image:: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/shield.svg
-     :target: https://pyup.io/repos/github/audreyr/cookiecutter-pypackage/
-     :alt: Updates
+This is a fork of `audreyr's cookiecutter-pypackage`_, with an additional attribute called repo_name. This way it is possible to have two different names for the outer repo folder and the inner project folder. The repo_name will be the one you use on pip (pip install <repo_name>) and the project_slug will be used when importing the package (import <project_slug>).
+
+.. _`audreyr's cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+The following is a copy of the original project's README.
 
 Cookiecutter_ template for a Python package.
 
