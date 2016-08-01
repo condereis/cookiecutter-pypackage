@@ -6,7 +6,7 @@ This is a fork of `audreyr's cookiecutter-pypackage`_, with an additional attrib
 
 .. _`audreyr's cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 
-The following is a copy of the original project's README.
+The following (except for Quickstart session) is a copy of the original project's README.
 
 Cookiecutter_ template for a Python package.
 
@@ -52,7 +52,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/condereis/cookiecutter-pypackage.git
 
 Then:
 
